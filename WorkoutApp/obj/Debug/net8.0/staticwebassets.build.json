@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A1xAHUgzHFBKJW/owkjwzGNVvCk7Yeg1UXlyJWcQGSc=",
+  "Source": "WorkoutApp",
+  "BasePath": "_content/WorkoutApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benbo\\workspace\\WorkoutApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\repositories\\randomworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\repositories\\randomworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\repositories\\workoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\repositories\\workoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\benbo\\workspace\\WorkoutApp\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\controllers\\randomworkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\controllers\\randomworkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\repositories\\irandomworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\repositories\\irandomworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\utils\\dbutils\\dbutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\utils\\dbutils\\dbutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\repositories\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\repositories\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\benbo\\workspace\\workoutapp\\workoutapp\\models\\randomworkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC34FF45-8813-48DF-BAC9-933363B79342}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\models\\randomworkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbUtils.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Utils\\DbUtils\\DbUtils.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Utils\\DbUtils\\DbUtils.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Utils\\DbUtils\\DbUtils.cs",
+              "RelativeToolTip": "WorkoutApp\\Utils\\DbUtils\\DbUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:46:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WorkoutApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WorkoutApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T18:40:48.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomWorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\RandomWorkoutRepository.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Repositories\\RandomWorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\RandomWorkoutRepository.cs",
+              "RelativeToolTip": "WorkoutApp\\Repositories\\RandomWorkoutRepository.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAqwJwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:15:05.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomWorkoutController.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Controllers\\RandomWorkoutController.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Controllers\\RandomWorkoutController.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Controllers\\RandomWorkoutController.cs",
+              "RelativeToolTip": "WorkoutApp\\Controllers\\RandomWorkoutController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:22:37.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-08T18:40:19.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\WorkoutRepository.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Repositories\\WorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\WorkoutRepository.cs",
+              "RelativeToolTip": "WorkoutApp\\Repositories\\WorkoutRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:48:44.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRandomWorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\IRandomWorkoutRepository.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Repositories\\IRandomWorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\IRandomWorkoutRepository.cs",
+              "RelativeToolTip": "WorkoutApp\\Repositories\\IRandomWorkoutRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:10:02.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "WorkoutApp\\Controllers\\UserProfileController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:50:43.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WorkoutApp\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:45:00.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkoutController.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Controllers\\WorkoutController.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Controllers\\WorkoutController.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Controllers\\WorkoutController.cs",
+              "RelativeToolTip": "WorkoutApp\\Controllers\\WorkoutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:53:06.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Program.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Program.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Program.cs",
+              "RelativeToolTip": "WorkoutApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:53:31.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "WorkoutApp\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:43:11.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Workout.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Models\\Workout.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Models\\Workout.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Models\\Workout.cs",
+              "RelativeToolTip": "WorkoutApp\\Models\\Workout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:45:44.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkoutApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\appsettings.json",
+              "RelativeToolTip": "WorkoutApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T18:42:05.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Models\\UserProfile.cs",
+              "RelativeToolTip": "WorkoutApp\\Models\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:34:18.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Models\\UserType.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Models\\UserType.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Models\\UserType.cs",
+              "RelativeToolTip": "WorkoutApp\\Models\\UserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:58:46.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\IWorkoutRepository.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Repositories\\IWorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\IWorkoutRepository.cs",
+              "RelativeToolTip": "WorkoutApp\\Repositories\\IWorkoutRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:47:40.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "WorkoutApp\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:51:45.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RandomWorkout.cs",
+              "DocumentMoniker": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Models\\RandomWorkout.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Models\\RandomWorkout.cs",
+              "ToolTip": "C:\\Users\\benbo\\workspace\\WorkoutApp\\WorkoutApp\\Models\\RandomWorkout.cs",
+              "RelativeToolTip": "WorkoutApp\\Models\\RandomWorkout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:09:18.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
