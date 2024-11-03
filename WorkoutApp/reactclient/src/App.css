@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+/* General Layout */
+body {
+  background-color: #f4f4f9;
+  color: #333;
+  padding-top: 60px; /* Adjust this padding so the page content doesn't overlap the navbar */
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Navbar Styling */
+.navbar {
+  background-color: #0077cc;
+  padding: 1px 20px;
+  display: flex;
+  justify-content: space-around; /* Ensures links are spaced out evenly */
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Keeps the navbar above other elements */
+}
+
+.navbar a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.navbar a:hover {
+  background-color: #3991cf;
+  border-radius: 4px;
+}
+
+.navbar a.active {
+  background-color: #005fa3;
+  border-radius: 4px;
+}
+
+
+/* Forms Styling */
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+form div {
+  margin-bottom: 15px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+form input[type="text"],
+form input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+form button {
+  background-color: #28a745;
+  color: #fff;
+  padding: 10px 15px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #066118;
+}
+
+/* Header Styling */
+h2 {
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #0077cc;
+  border-bottom: 2px solid #0077cc;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 24px;
+  color: #009ccc;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+/* Grid for Workout Display */
+.workout-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.workout-card {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.workout-card p {
+  margin-bottom: 10px;
+}
+
+.workout-card button {
+  background-color: #dc3545;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.workout-card button:hover {
+  background-color: #c82333;
+}
+
